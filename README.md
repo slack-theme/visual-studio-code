@@ -2,7 +2,7 @@
 
 Color scheme inspired by the [Slack](https://slack.com) default theme Aubergine.
 
-![](https://github.com/felipemendes/vscode-theme-slack/blob/master/screenshots/preview.png)
+![](https://raw.githubusercontent.com/felipemendes/vscode-theme-slack/master/screenshots/preview.png)
 
 ## Installing
 
