@@ -57,7 +57,7 @@
 		"activityBar.background": "#261C25",
 		"activityBar.foreground": "#958793",
 		"activityBar.dropBackground": "#958793",
-		"activityBarBadge.background": "#958793",
+		"activityBarBadge.background": "#F44C5E",
 		// "activityBarBadge.foreground": "",
 
 		// Workbench: Panel
@@ -67,6 +67,11 @@
 		// "panelTitle.activeForeground": "",
 		// "panelTitle.inactiveForeground": "",
 
+		// Dropdown Control
+		"dropdown.background": "#ff0000",
+		//"dropdown.border": "#ff0000",
+		"dropdown.foreground": "#ffffff",
+
 		// Workbench: Side Bar
 		"sideBar.background": "#4F384A",
 		"sideBarTitle.foreground": "#FFF",
@@ -74,7 +79,7 @@
 		"sideBarSectionHeader.background": "#3E313C",
 
 		// Workbench: Debug
-		"debugToolBar.background": "#F44C5E",
+		"debugToolBar.background": "#ca0014",
 		// "debugExceptionWidget.background": "",
 		// "debugExceptionWidget.border": "",
 
