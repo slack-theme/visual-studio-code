@@ -6,7 +6,7 @@
 		"editor.foreground": "#000000",
 
 		// Base
-		"foreground": "#AD9BA8",
+		"foreground": "#917D8C",
 		"focusBorder": "#4C9689",
 		"input.background": "#FFF",
 		"input.border": "#3E313C",
@@ -19,12 +19,15 @@
 		"widget.shadow": "#858585",
 		"scrollbar.shadow": "#3e313c",
 
-		"list.activeSelectionBackground": "#F44C5E",
-		"list.activeSelectionForeground": "#ffffff",
-		"list.hoverBackground": "#3E313C",
-		"list.focusBackground": "#3E313C",
-		"list.inactiveSelectionBackground": "#3E313C",
-		// "list.highlightForeground": "",
+		"list.activeSelectionBackground": "#00B892",
+		"list.activeSelectionForeground": "#fff",
+		"list.hoverBackground": "#41353E",
+		"list.hoverForeground": "#fff",
+		"list.focusBackground": "#00B892",
+		"list.focusForeground": "#fff",
+		"list.inactiveSelectionBackground": "#00B892",
+		"list.inactiveSelectionForeground": "#fff",
+		"list.highlightForeground": "#fff",
 
 		// Editor
 		"editor.background": "#FFF",
@@ -57,7 +60,7 @@
 		"activityBar.background": "#261C25",
 		"activityBar.foreground": "#958793",
 		"activityBar.dropBackground": "#958793",
-		"activityBarBadge.background": "#F44C5E",
+		"activityBarBadge.background": "#fff",
 		// "activityBarBadge.foreground": "",
 
 		// Workbench: Panel
@@ -94,7 +97,7 @@
 		
 		// Workbench: Status Bar
 		"statusBar.foreground": "#FFF",
-		"statusBar.background": "#4C9689",
+		"statusBar.background": "#00A369",
 		// "statusBar.debuggingBackground": "",
 		// "statusBar.noFolderBackground": "",
 		// "statusBar.foreground": "",
@@ -110,7 +113,7 @@
 		{
 			"scope": ["meta.embedded", "source.groovy.embedded"],
 			"settings": {
-				"foreground": "#000000ff"
+				"foreground": "#000"
 			}
 		},
 		{
@@ -134,7 +137,7 @@
 		{
 			"scope": "comment",
 			"settings": {
-				"foreground": "#4C9689"
+				"foreground": "#BBBBBC"
 			}
 		},
 		{
