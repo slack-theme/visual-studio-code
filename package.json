@@ -2,7 +2,7 @@
     "name": "slack-theme",
     "displayName": "Slack Theme",
     "description": "Color scheme inspired by Slack's default theme",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "publisher": "felipe-mendes",
     "engines": {
         "vscode": "^1.17.0"
