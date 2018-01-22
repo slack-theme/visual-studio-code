@@ -18,7 +18,6 @@
 		"button.background": "#F44C5E",
 		"widget.shadow": "#858585",
 		"scrollbar.shadow": "#3e313c",
-
 		"list.activeSelectionBackground": "#00B892",
 		"list.activeSelectionForeground": "#fff",
 		"list.hoverBackground": "#41353E",
@@ -28,7 +27,7 @@
 		"list.inactiveSelectionBackground": "#00B892",
 		"list.inactiveSelectionForeground": "#fff",
 		"list.highlightForeground": "#fff",
-
+		
 		// Editor
 		"editor.background": "#FFF",
 		// "editor.foreground": "",
@@ -60,8 +59,8 @@
 		"activityBar.background": "#261C25",
 		"activityBar.foreground": "#958793",
 		"activityBar.dropBackground": "#958793",
-		"activityBarBadge.background": "#fff",
-		// "activityBarBadge.foreground": "",
+		"activityBarBadge.background": "#F44C5E",
+		"activityBarBadge.foreground": "#F6F6F6",
 
 		// Workbench: Panel
 		// "panel.background": "",
@@ -72,7 +71,7 @@
 
 		// Dropdown Control
 		"dropdown.background": "#ff0000",
-		//"dropdown.border": "#ff0000",
+		"dropdown.border": "#3E313C",
 		"dropdown.foreground": "#ffffff",
 
 		// Workbench: Side Bar
@@ -107,7 +106,9 @@
 		// "statusBarItem.hoverBackground": "",
 
 		// Extensions
-		"extensionButton.prominentBackground": "#F44C5E"
+		"extensionButton.prominentBackground": "#F44C5E",
+		"extensionButton.prominentForeground": "#F6F6F6",
+		"extensionButton.prominentHoverBackground": "#442C3F"
 	},
 	"tokenColors": [
 		{
