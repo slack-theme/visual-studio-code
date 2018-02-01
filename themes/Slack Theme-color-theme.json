@@ -70,9 +70,9 @@
 		// "panelTitle.inactiveForeground": "",
 
 		// Dropdown Control
-		"dropdown.background": "#ff0000",
-		"dropdown.border": "#3E313C",
-		"dropdown.foreground": "#ffffff",
+		"dropdown.background": "#261C25",
+		"dropdown.border": "#261C25",
+		"dropdown.foreground": "#FFF",
 
 		// Workbench: Side Bar
 		"sideBar.background": "#4F384A",
@@ -111,7 +111,7 @@
 		"extensionButton.prominentHoverBackground": "#442C3F",
 
 		// Notification Dialog Colors
-		"notification.background": "#261C25",
+		"notification.background": "#3D303B",
 		"notification.foreground": "#fff",
 		"notification.buttonBackground": "#2894dd",
 		"notification.buttonForeground": "#fff",
@@ -126,8 +126,8 @@
 		//"textBlockQuote.background": "",
 		//"textBlockQuote.border": "",
 		//"textCodeBlock.background": "",
-		"textLink.activeForeground": "#0062a3",
-		"textLink.foreground": "#2894dd",
+		//"textLink.activeForeground": "#0062a3",
+		//"textLink.foreground": "#2894dd",
 		//"textPreformat.foreground": "",
 		//"textSeparator.foreground": ""
 	},
