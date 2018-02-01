@@ -110,7 +110,7 @@
 		"extensionButton.prominentForeground": "#F6F6F6",
 		"extensionButton.prominentHoverBackground": "#442C3F",
 
-		// Notifications
+		// Notification Dialog Colors
 		"notification.background": "#261C25",
 		"notification.foreground": "#fff",
 		"notification.buttonBackground": "#2894dd",
@@ -120,7 +120,16 @@
 		"notification.infoBackground": "#2894dd",
 		"notification.infoForeground": "#fff",
 		"notification.warningBackground": "#EABB70",
-		"notification.warningForeground": "#fff"
+		"notification.warningForeground": "#fff",
+
+		// Text Colors
+		//"textBlockQuote.background": "",
+		//"textBlockQuote.border": "",
+		//"textCodeBlock.background": "",
+		"textLink.activeForeground": "#0062a3",
+		"textLink.foreground": "#2894dd",
+		//"textPreformat.foreground": "",
+		//"textSeparator.foreground": ""
 	},
 	"tokenColors": [
 		{
