@@ -16,8 +16,7 @@
 		"badge.background": "#F44C5E",
 		"progressBar.background": "#F44C5E",
 		"button.background": "#F44C5E",
-		"widget.shadow": "#272727",
-		"scrollbar.shadow": "#3e313c",
+		"widget.shadow": "#3e313c7e",
 		"list.activeSelectionBackground": "#3E9689",
 		"list.activeSelectionForeground": "#fff",
 		"list.hoverBackground": "#41353E",
@@ -27,6 +26,12 @@
 		"list.inactiveSelectionBackground": "#3E9689",
 		"list.inactiveSelectionForeground": "#fff",
 		"list.highlightForeground": "#fff",
+
+		// Scroll Bar Control
+		"scrollbar.shadow": "#3e313c7e",
+		"scrollbarSlider.activeBackground": "#F44C5E",
+		"scrollbarSlider.background": "#3e313c7e",
+		"scrollbarSlider.hoverBackground": "#F44C5E",
 		
 		// Editor
 		"editor.background": "#FFF",
@@ -64,14 +69,14 @@
 
 		// Workbench: Panel
 		// "panel.background": "",
-		"panel.border": "#F44C5E",
+		"panel.border": "#4F384A",
 		// "panelTitle.activeBorder": "",
 		// "panelTitle.activeForeground": "",
 		// "panelTitle.inactiveForeground": "",
 
 		// Dropdown Control
-		"dropdown.background": "#261C25",
-		"dropdown.border": "#261C25",
+		"dropdown.background": "#4F384A",
+		"dropdown.border": "#4F384A",
 		"dropdown.foreground": "#FFF",
 
 		// Workbench: Side Bar
@@ -120,7 +125,7 @@
 		"notification.infoBackground": "#2894dd",
 		"notification.infoForeground": "#fff",
 		"notification.warningBackground": "#EABB70",
-		"notification.warningForeground": "#fff",
+		"notification.warningForeground": "#fff"
 
 		// Text Colors
 		//"textBlockQuote.background": "",
@@ -159,7 +164,7 @@
 		{
 			"scope": "comment",
 			"settings": {
-				"foreground": "#BBBBBC"
+				"foreground": "#31796e"
 			}
 		},
 		{
