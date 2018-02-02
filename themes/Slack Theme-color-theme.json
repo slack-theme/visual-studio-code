@@ -127,6 +127,11 @@
 		//"textPreformat.foreground": "",
 		//"textSeparator.foreground": ""
 
+		// Welcome Page
+		//"welcomePage.buttonBackground": "",
+		//"welcomePage.buttonHoverBackground": "",
+		//"walkThrough.embeddedEditorBackground": "",
+
 		// Notification Dialog Colors
 		"notification.background": "#3D303B",
 		"notification.foreground": "#fff",
