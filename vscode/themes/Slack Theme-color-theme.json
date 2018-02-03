@@ -4,7 +4,7 @@
 	"colors": {
 
 		// Base
-		"foreground": "#917D8C",
+		"foreground": "#c9b9c5",
 		"focusBorder": "#4C9689",
 		"input.background": "#FFF",
 		"input.border": "#3E313C",
@@ -13,7 +13,6 @@
 		"inputOption.activeBorder": "#F44C5E",
 		"badge.background": "#F44C5E",
 		"progressBar.background": "#F44C5E",
-		"button.background": "#F44C5E",
 		"widget.shadow": "#3e313c7e",
 		"list.activeSelectionBackground": "#3E9689",
 		"list.activeSelectionForeground": "#fff",
@@ -24,6 +23,11 @@
 		"list.inactiveSelectionBackground": "#3E9689",
 		"list.inactiveSelectionForeground": "#fff",
 		"list.highlightForeground": "#fff",
+
+		// Button
+		"button.background": "#F44C5E",
+		"button.foreground": "#FFF",
+		"button.hoverBackground": "#e4505f",
 
 		// Scroll Bar Control
 		"scrollbar.shadow": "#3e313c7e",
@@ -58,14 +62,14 @@
 		// "editor.wordHighlightBackground": "",
 		// "editor.wordHighlightStrongBackground": "",
 
-		// Workbench: Activity Bar
+		// Activity Bar
 		"activityBar.background": "#261C25",
 		"activityBar.foreground": "#958793",
 		"activityBar.dropBackground": "#958793",
 		"activityBarBadge.background": "#F44C5E",
 		"activityBarBadge.foreground": "#F6F6F6",
 
-		// Workbench: Panel
+		// Panel
 		// "panel.background": "",
 		"panel.border": "#4F384A",
 		// "panelTitle.activeBorder": "",
@@ -77,29 +81,29 @@
 		"dropdown.border": "#4F384A",
 		"dropdown.foreground": "#FFF",
 
-		// Workbench: Side Bar
+		// Side Bar
 		"sideBar.background": "#4F384A",
 		"sideBarTitle.foreground": "#FFF",
 		"sideBarSectionHeader.foreground": "#FFF",
 		"sideBarSectionHeader.background": "#3E313C",
 
-		// Workbench: Debug
-		"debugToolBar.background": "#EABB70",
+		// Debug
+		"debugToolBar.background": "#F44C5E",
 		// "debugExceptionWidget.background": "",
 		// "debugExceptionWidget.border": "",
 
-		// Workbench: Tabs
+		// Tabs
 		"tab.border": "#F3F3F3",
 		"tab.activeBackground": "#FFF",
 		"tab.inactiveForeground": "#686868",
 		"tab.inactiveBackground": "#F3F3F3",
 		"tab.activeForeground": "#000",
 		
-		// Workbench: Status Bar
+		// Status Bar
 		"statusBar.foreground": "#FFF",
 		"statusBar.background": "#3E9689",
-		// "statusBar.debuggingBackground": "",
-		// "statusBar.noFolderBackground": "",
+		/"statusBar.debuggingBackground": "#F6B555",
+		"statusBar.noFolderBackground": "#F6B555",
 		// "statusBar.foreground": "",
 		// "statusBarItem.prominentBackground": "",
 		// "statusBarItem.prominentHoverBackground": "",
@@ -112,11 +116,11 @@
 		"extensionButton.prominentHoverBackground": "#442C3F",
 
 		// Git Colors
-		"gitDecoration.modifiedResourceForeground": "#87a4b8",
+		"gitDecoration.modifiedResourceForeground": "#cf4696",
 		"gitDecoration.deletedResourceForeground": "#E9495A",
 		"gitDecoration.untrackedResourceForeground": "#56626e",
 		"gitDecoration.ignoredResourceForeground": "#c09066",
-		"gitDecoration.conflictingResourceForeground": "#cf4696",
+		"gitDecoration.conflictingResourceForeground": "#87a4b8",
 
 		// Text Colors
 		//"textBlockQuote.background": "",

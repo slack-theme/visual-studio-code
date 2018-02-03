@@ -1,6 +1,6 @@
 # Slack Theme
 
-Color scheme inspired by the [Slack](https://slack.com) default theme Aubergine.
+Color scheme inspired by [Slack](https://slack.com) default theme Aubergine.
 
 <img width="400" alt="portfolio_view" src="https://raw.githubusercontent.com/felipemendes/slack-theme/master/assets/slack-is-awesome.gif">
 
@@ -15,6 +15,7 @@ Color scheme inspired by the [Slack](https://slack.com) default theme Aubergine.
 |Comment         | `#A0A1A7` | `160 161 167`   | ![Comment Color](https://raw.githubusercontent.com/felipemendes/slack-theme/master/assets/comment.png) |
 |Purple          | `#4F384A` | `79, 56, 74`    | ![Purple Color](https://raw.githubusercontent.com/felipemendes/slack-theme/master/assets/purple.png) |
 |Purple Darker   | `#261C25` | `38, 28, 37`    | ![Purple Darker Color](https://raw.githubusercontent.com/felipemendes/slack-theme/master/assets/purple-darker.png) |
+|Red             | `#F44C5E` | `244, 76, 94`   | ![Red Color](https://raw.githubusercontent.com/felipemendes/slack-theme/master/assets/red.png) |
 |Aquamarine      | `#3E9689` | `62, 150, 137`  | ![Aquamarine Color](https://raw.githubusercontent.com/felipemendes/slack-theme/master/assets/aquamarine.png) |
 |Non-Photo Blue  | `#87CBDD` | `135, 203, 221` | ![Non-Photo Blue Color](https://raw.githubusercontent.com/felipemendes/slack-theme/master/assets/non-photo-blue.png) |
 |Saffron         | `#F6B555` | `246, 181, 85`  | ![Saffron Color](https://raw.githubusercontent.com/felipemendes/slack-theme/master/assets/saffron.png) |
