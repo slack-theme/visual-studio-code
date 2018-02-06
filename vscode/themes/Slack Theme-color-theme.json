@@ -102,7 +102,7 @@
 		// Status Bar
 		"statusBar.foreground": "#FFF",
 		"statusBar.background": "#3E9689",
-		/"statusBar.debuggingBackground": "#F6B555",
+		"statusBar.debuggingBackground": "#F6B555",
 		"statusBar.noFolderBackground": "#F6B555",
 		// "statusBar.foreground": "",
 		// "statusBarItem.prominentBackground": "",
