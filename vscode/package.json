@@ -16,6 +16,10 @@
         "light"
     ],
     "icon": "icon.png",
+    "galleryBanner": {
+        "color": "#FFF",
+        "theme": "light"
+    },
     "contributes": {
         "themes": [
             {
