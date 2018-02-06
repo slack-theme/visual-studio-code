@@ -136,6 +136,13 @@
 		//"welcomePage.buttonHoverBackground": "",
 		//"walkThrough.embeddedEditorBackground": "",
 
+		// Title Bar Colors (macOS)
+		"titleBar.activeBackground":"#4F384A",
+		"titleBar.activeForeground":"#FFF",
+		"titleBar.inactiveBackground":"#261C25",
+		"titleBar.inactiveForeground":"#685C66",
+		"titleBar.border":"#261C25",
+
 		// Notification Dialog Colors
 		"notification.background": "#3D303B",
 		"notification.foreground": "#fff",
