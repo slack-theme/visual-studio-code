@@ -4,7 +4,7 @@
 	"colors": {
 
 		// Base
-		"foreground": "#000",
+		"foreground": "#36373B",
 		"focusBorder": "#4C9689",
 		"input.background": "#FFF",
 		"input.border": "#3E313C",
@@ -87,12 +87,13 @@
 
 		// Side Bar
 		"sideBar.background": "#4F384A",
+		"sideBar.foreground": "#c9b9c5",
 		"sideBarTitle.foreground": "#FFF",
 		"sideBarSectionHeader.foreground": "#FFF",
 		"sideBarSectionHeader.background": "#3E313C",
 
 		// Debug
-		"debugToolBar.background": "#F44C5E",
+		"debugToolBar.background": "#F6B555",
 		// "debugExceptionWidget.background": "",
 		// "debugExceptionWidget.border": "",
 
