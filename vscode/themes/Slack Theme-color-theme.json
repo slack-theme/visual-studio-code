@@ -146,7 +146,7 @@
 		"titleBar.activeForeground":"#FFF",
 		"titleBar.inactiveBackground":"#261C25",
 		"titleBar.inactiveForeground":"#685C66",
-		"titleBar.border":"#261C25",
+		"titleBar.border":"#4F384A",
 
 		// Notification Dialog Colors
 		"notification.background": "#3D303B",
