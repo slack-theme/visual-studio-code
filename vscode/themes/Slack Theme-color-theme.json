@@ -35,9 +35,9 @@
 
 		// Scroll Bar Control
 		"scrollbar.shadow": "#ffffff00",
-		"scrollbarSlider.activeBackground": "#F44C5E",
+		"scrollbarSlider.activeBackground": "#F6B555",
 		"scrollbarSlider.background": "#3e313c7e",
-		"scrollbarSlider.hoverBackground": "#F44C5E",
+		"scrollbarSlider.hoverBackground": "#F6B555",
 		
 		// Editor
 		//"editor.background": "#FFF",
@@ -121,8 +121,8 @@
 		"extensionButton.prominentHoverBackground": "#442C3F",
 
 		// Git Colors
-		"gitDecoration.modifiedResourceForeground": "#E9495A",
-		"gitDecoration.deletedResourceForeground": "#cf4696",
+		"gitDecoration.modifiedResourceForeground": "#ffffff",
+		"gitDecoration.deletedResourceForeground": "#F44C5E",
 		"gitDecoration.untrackedResourceForeground": "#56626e",
 		"gitDecoration.ignoredResourceForeground": "#c09066",
 		"gitDecoration.conflictingResourceForeground": "#87a4b8",
