@@ -121,11 +121,11 @@
 		"extensionButton.prominentHoverBackground": "#442C3F",
 
 		// Git Colors
-		"gitDecoration.modifiedResourceForeground": "#ffffff",
+		"gitDecoration.modifiedResourceForeground": "#FFF",
 		"gitDecoration.deletedResourceForeground": "#F44C5E",
-		"gitDecoration.untrackedResourceForeground": "#56626e",
+		"gitDecoration.untrackedResourceForeground": "#FFF",
 		"gitDecoration.ignoredResourceForeground": "#c09066",
-		"gitDecoration.conflictingResourceForeground": "#87a4b8",
+		"gitDecoration.conflictingResourceForeground": "#FFF",
 
 		// Text Colors
 		//"textBlockQuote.background": "",
