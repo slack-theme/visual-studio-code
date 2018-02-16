@@ -122,9 +122,9 @@
 
 		// Git Colors
 		"gitDecoration.modifiedResourceForeground": "#FFF",
-		"gitDecoration.deletedResourceForeground": "#F44C5E",
+		"gitDecoration.deletedResourceForeground": "#FFF",
 		"gitDecoration.untrackedResourceForeground": "#FFF",
-		"gitDecoration.ignoredResourceForeground": "#c09066",
+		"gitDecoration.ignoredResourceForeground": "#FFF",
 		"gitDecoration.conflictingResourceForeground": "#FFF",
 
 		// Text Colors
