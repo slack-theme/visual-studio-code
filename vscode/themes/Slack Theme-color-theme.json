@@ -43,9 +43,9 @@
 
 		// Scroll Bar Control
 		"scrollbar.shadow": "#ffffff00",
-		"scrollbarSlider.activeBackground": "#F6B555",
+		"scrollbarSlider.activeBackground": "#dbdbdb",
 		"scrollbarSlider.background": "#3e313c7e",
-		"scrollbarSlider.hoverBackground": "#F6B555",
+		"scrollbarSlider.hoverBackground": "#dbdbdb",
 		
 		// Badge
 		"badge.background": "#F44C5E",
@@ -55,10 +55,10 @@
 		"progressBar.background": "#F44C5E",
 		
 		// Editor
-		//"editor.background": "#FFF",
+		// "editor.background": "#FFF",
 		"editor.foreground": "#000",
 		// "editorWidget.background": "",
-		//"editorCursor.foreground": "",
+		// "editorCursor.foreground": "",
 		// "editorWhitespace.foreground": "",
 		"editor.lineHighlightBackground": "#F9F9F9",
 		"editor.selectionBackground": "#AED4FB",
