@@ -1,3 +1,4 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # Slack Theme
 
 Color scheme inspired by [Slack](https://slack.com) default theme Aubergine.
