@@ -65,7 +65,8 @@
 		// "editorIndentGuide.background": "",
 		// "editorHoverWidget.background": "",
 		// "editorHoverWidget.border": "",
-		"editorLineNumber.foreground": "#4C9689",
+		"editorLineNumber.foreground": "#b9b9b9",
+		"editorActiveLineNumber.foreground": "#F44C5E",
 		// "editorMarkerNavigation.background": "",
 		// "editorMarkerNavigationError.background": "",
 		// "editorMarkerNavigationWarning.background": "",
@@ -80,6 +81,18 @@
 		// "editor.selectionHighlightBackground": "",
 		// "editor.wordHighlightBackground": "",
 		// "editor.wordHighlightStrongBackground": "",
+
+		// Editor border
+		// "editor.selectionHighlightBorder": "",
+		// "editor.wordHighlightBorder": "",
+		// "editor.wordHighlightStrongBorder": "",
+		// "editor.findMatchBorder": "",
+		// "editor.findMatchHighlightBorder": "",
+		// "editor.findRangeHighlightBorder": "",
+		// "editor.rangeHighlightBorder": "",
+
+		// Terminal
+		"terminal.border": "#4F384A",
 
 		// Activity Bar
 		"activityBar.background": "#261C25",
@@ -108,7 +121,7 @@
 		"sideBarSectionHeader.background": "#3E313C",
 
 		// Debug
-		"debugToolBar.background": "#F6B555",
+		"debugToolBar.background": "#F44C5E",
 		// "debugExceptionWidget.background": "",
 		// "debugExceptionWidget.border": "",
 
