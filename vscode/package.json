@@ -29,7 +29,7 @@
             {
                 "label": "Slack Theme",
                 "uiTheme": "vs",
-                "path": "./themes/Slack Theme-color-theme.json"
+                "path": "./themes/slack-theme.json"
             }
         ]
     }
