@@ -1,6 +1,6 @@
 {  
    "name":"Slack Theme",
-   "type":"light",
+   "type":"dark",
    "colors":{  
       "foreground":"#36373B",
       "focusBorder":"#4C9689",
@@ -29,6 +29,7 @@
       "scrollbarSlider.hoverBackground":"#dbdbdb",
       "badge.background":"#F44C5E",
       "progressBar.background":"#F44C5E",
+      "editor.background":"#FFF",
       "editor.foreground":"#000",
       "editor.lineHighlightBackground":"#F9F9F9",
       "editor.selectionBackground":"#AED4FB",

@@ -13,7 +13,7 @@
     "keywords": [
         "slack",
         "theme",
-        "light"
+        "dark"
     ],
     "icon": "icon.png",
     "galleryBanner": {
@@ -28,7 +28,7 @@
         "themes": [
             {
                 "label": "Slack Theme",
-                "uiTheme": "vs",
+                "uiTheme": "vs-dark",
                 "path": "./themes/slack-theme.json"
             }
         ]
