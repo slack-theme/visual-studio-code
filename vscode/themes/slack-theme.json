@@ -36,6 +36,8 @@
       "editorLineNumber.foreground":"#b9b9b9",
       "editorActiveLineNumber.foreground":"#F44C5E",
       "terminal.border":"#4F384A",
+      "terminal.foreground":"#261C25",
+      "panelTitle.activeForeground":"#261C25",
       "activityBar.background":"#261C25",
       "activityBar.foreground":"#958793",
       "activityBar.dropBackground":"#958793",
@@ -51,11 +53,12 @@
       "sideBarSectionHeader.foreground":"#FFF",
       "sideBarSectionHeader.background":"#3E313C",
       "debugToolBar.background":"#F44C5E",
-      "tab.border":"#F3F3F3",
+      "tab.border":"#F9F9F9",
       "tab.activeBackground":"#FFF",
-      "tab.inactiveForeground":"#686868",
-      "tab.inactiveBackground":"#F3F3F3",
+      "tab.inactiveForeground":"#545555",
+      "tab.inactiveBackground":"#F9F9F9",
       "tab.activeForeground":"#000",
+      "editorGroupHeader.tabsBackground": "#F9F9F9",
       "statusBar.foreground":"#FFF",
       "statusBar.background":"#3E9689",
       "statusBar.debuggingBackground":"#F44C5E",
@@ -77,7 +80,10 @@
       "titleBar.activeForeground":"#FFF",
       "titleBar.inactiveBackground":"#261C25",
       "titleBar.inactiveForeground":"#685C66",
-      "titleBar.border":"#4F384A"
+      "titleBar.border":"#4F384A",
+      "welcomePage.buttonBackground":"#F9FAFA",
+      "welcomePage.buttonHoverBackground":"#FCFCFC",
+      "editorWidget.background":"#F9F9F9"
    },
    "tokenColors":[  
       {  
