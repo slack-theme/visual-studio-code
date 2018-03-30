@@ -1,10 +1,10 @@
 {  
    "name":"Slack Theme",
-   "type":"dark",
+   "type":"light",
    "colors":{  
       "foreground":"#36373B",
       "focusBorder":"#4C9689",
-      "widget.shadow":"#ffffff00",
+      "widget.shadow":"#261C25",
       "input.background":"#FFF",
       "input.border":"#3E313C",
       "input.foreground":"#000",
@@ -35,6 +35,7 @@
       "editor.selectionBackground":"#AED4FB",
       "editorLineNumber.foreground":"#b9b9b9",
       "editorActiveLineNumber.foreground":"#F44C5E",
+      "editor.findMatchBackground":"#AED4FB",
       "terminal.border":"#4F384A",
       "terminal.foreground":"#261C25",
       "panelTitle.activeForeground":"#261C25",
@@ -45,7 +46,7 @@
       "activityBarBadge.foreground":"#F6F6F6",
       "panel.border":"#4F384A",
       "dropdown.background":"#4F384A",
-      "dropdown.border":"#4F384A",
+      "dropdown.border":"#3E9689",
       "dropdown.foreground":"#FFF",
       "sideBar.background":"#4F384A",
       "sideBar.foreground":"#c9b9c5",
@@ -53,10 +54,10 @@
       "sideBarSectionHeader.foreground":"#FFF",
       "sideBarSectionHeader.background":"#3E313C",
       "debugToolBar.background":"#F44C5E",
-      "tab.border":"#F9F9F9",
+      "tab.border":"#F3F3F3",
       "tab.activeBackground":"#FFF",
-      "tab.inactiveForeground":"#545555",
-      "tab.inactiveBackground":"#F9F9F9",
+      "tab.inactiveForeground":"#686868",
+      "tab.inactiveBackground":"#F3F3F3",
       "tab.activeForeground":"#000",
       "editorGroupHeader.tabsBackground": "#F9F9F9",
       "statusBar.foreground":"#FFF",
@@ -83,7 +84,8 @@
       "titleBar.border":"#4F384A",
       "welcomePage.buttonBackground":"#F9FAFA",
       "welcomePage.buttonHoverBackground":"#FCFCFC",
-      "editorWidget.background":"#F9F9F9"
+      "editorWidget.background":"#F9F9F9",
+      "editorWidget.border":"#dbdbdb"
    },
    "tokenColors":[  
       {  

@@ -28,8 +28,12 @@
         "themes": [
             {
                 "label": "Slack Theme",
-                "uiTheme": "vs-dark",
+                "uiTheme": "vs",
                 "path": "./themes/slack-theme.json"
+            },{
+                "label": "Slack Theme Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/slack-theme-dark.json"
             }
         ]
     }
