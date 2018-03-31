@@ -4,8 +4,11 @@
 
 Color scheme inspired by the [Slack](https://slack.com) default theme Aubergine.
 
-![](https://raw.githubusercontent.com/felipemendes/slack-theme/master/vscode/screenshots/preview.png)
+Light version
+![](https://raw.githubusercontent.com/felipemendes/slack-theme/master/vscode/screenshots/preview-light.png)
 
+Dark version
+![](https://raw.githubusercontent.com/felipemendes/slack-theme/master/vscode/screenshots/preview-dark.png)
 ## Installing
 
 This extension is available for free in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=felipe-mendes.slack-theme)
