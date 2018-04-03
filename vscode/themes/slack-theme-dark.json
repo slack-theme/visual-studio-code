@@ -25,8 +25,8 @@
       "button.hoverBackground":"#e4505f",
       "scrollbar.shadow":"#ffffff00",
       "scrollbarSlider.activeBackground":"#dbdbdb",
-      "scrollbarSlider.background":"#3e313c7e",
-      "scrollbarSlider.hoverBackground":"#3E313C",
+      "scrollbarSlider.background":"#dbdbdb",
+      "scrollbarSlider.hoverBackground":"#dbdbdb",
       "badge.background":"#F44C5E",
       "progressBar.background":"#F44C5E",
       "editor.background":"#3E313C",
@@ -99,7 +99,7 @@
 			"scope": "comment",
 			"settings": {
 				"foreground": "#697098",
-				"fontStyle": "italic"
+				"fontStyle": "normal"
 			}
 		},
 		{
@@ -489,7 +489,7 @@
 			],
 			"settings": {
 				"foreground": "#c792ea",
-				"fontStyle": "italic"
+				"fontStyle": "normal"
 			}
 		},
 		{
@@ -677,7 +677,7 @@
 			"scope": "italic",
 			"settings": {
 				"foreground": "#c792ea",
-				"fontStyle": "italic"
+				"fontStyle": "normal"
 			}
 		},
 		{
@@ -693,7 +693,7 @@
 			"scope": "quote",
 			"settings": {
 				"foreground": "#697098",
-				"fontStyle": "italic"
+				"fontStyle": "normal"
 			}
 		},
 		{
@@ -862,7 +862,7 @@
 			"scope": "meta.tag.sgml.doctype.html",
 			"settings": {
 				"foreground": "#c792ea",
-				"fontStyle": "italic"
+				"fontStyle": "normal"
 			}
 		},
 		{
@@ -1072,7 +1072,7 @@
 			"scope": "markup.italic.markdown",
 			"settings": {
 				"foreground": "#c792ea",
-				"fontStyle": "italic"
+				"fontStyle": "normal"
 			}
 		},
 		{
@@ -1088,7 +1088,7 @@
 			"scope": "markup.quote.markdown",
 			"settings": {
 				"foreground": "#697098",
-				"fontStyle": "italic"
+				"fontStyle": "normal"
 			}
 		},
 		{
@@ -1152,7 +1152,7 @@
 			"name": "PHP Variables",
 			"scope": "variable.other.php",
 			"settings": {
-				"foreground": "#bec5d4"
+				"foreground": "#ffcb6b"
 			}
 		},
 		{
@@ -1260,7 +1260,7 @@
 				"source.css.sass meta.at-rule variable"
 			],
 			"settings": {
-				"foreground": "#bec5d4"
+				"foreground": "#ffcb6b"
 			}
 		},
 		{
@@ -1475,7 +1475,7 @@
 				"comment"
 			],
 			"settings": {
-				"fontStyle": "italic"
+				"fontStyle": "normal"
 			}
 		},
 		{
