@@ -38,7 +38,8 @@
       "editor.findMatchBackground":"#8A7A86",
       "terminal.border":"#4F384A",
       "terminal.foreground":"#f6f6f4",
-      "panelTitle.activeForeground":"#261C25",
+	  "panelTitle.activeForeground":"#FFF",
+	  "panelTitle.inactiveForeground":"#f6f6f4",
       "activityBar.background":"#261C25",
       "activityBar.foreground":"#958793",
       "activityBar.dropBackground":"#958793",
@@ -85,7 +86,7 @@
       "welcomePage.buttonBackground":"#4F384A",
       "welcomePage.buttonHoverBackground":"#3E313C",
       "editorWidget.background":"#4F384A",
-      "editorWidget.border":"#261C25"
+	  "editorWidget.border":"#261C25"
    },
    "tokenColors": [
 		{
