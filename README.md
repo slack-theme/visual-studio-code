@@ -1,29 +1,26 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/) [![Badge for version for Visual Studio Code extension naereen.makefiles-support-for-vscode](https://vsmarketplacebadge.apphb.com/version/naereen.makefiles-support-for-vscode.svg)](https://marketplace.visualstudio.com/items?itemName=felipe-mendes.slack-theme)
+[![downloads](https://img.shields.io/badge/Downloads-2K-green.svg)](https://marketplace.visualstudio.com/items?itemName=felipe-mendes.slack-theme)
+
 # Slack Theme
 
-Color scheme inspired by [Slack](https://slack.com) default theme Aubergine.
+Color scheme inspired by the [Slack](https://slack.com) default theme Aubergine.
 
-<img width="400" alt="portfolio_view" src="https://raw.githubusercontent.com/felipemendes/slack-theme/master/assets/slack-is-awesome.gif">
+Light version
+![](https://raw.githubusercontent.com/felipemendes/slack-theme/master/vscode/screenshots/preview-light.png)
 
-> Slack is Awesome by [Nick Staab](https://dribbble.com/shots/1724648-Slack-is-Awesome).
+Dark version
+![](https://raw.githubusercontent.com/felipemendes/slack-theme/master/vscode/screenshots/preview-dark.png)
+## Installing
 
-## Color Palette
-
-|Palette         | Hex       | RGB             | --- |
-|---             | ---       | ---             | --- |
-|Background      | `#FFFFFF` | `255 255 255`   | ![Background Color](https://raw.githubusercontent.com/felipemendes/slack-theme/master/assets/background.png) |
-|Selection       | `#7BBFF3` | `123 191 243`   | ![Selection Color](https://raw.githubusercontent.com/felipemendes/slack-theme/master/assets/selection.png) |
-|Comment         | `#A0A1A7` | `160 161 167`   | ![Comment Color](https://raw.githubusercontent.com/felipemendes/slack-theme/master/assets/comment.png) |
-|Purple          | `#4F384A` | `79, 56, 74`    | ![Purple Color](https://raw.githubusercontent.com/felipemendes/slack-theme/master/assets/purple.png) |
-|Purple Darker   | `#261C25` | `38, 28, 37`    | ![Purple Darker Color](https://raw.githubusercontent.com/felipemendes/slack-theme/master/assets/purple-darker.png) |
-|Red             | `#F44C5E` | `244, 76, 94`   | ![Red Color](https://raw.githubusercontent.com/felipemendes/slack-theme/master/assets/red.png) |
-|Aquamarine      | `#3E9689` | `62, 150, 137`  | ![Aquamarine Color](https://raw.githubusercontent.com/felipemendes/slack-theme/master/assets/aquamarine.png) |
-|Non-Photo Blue  | `#87CBDD` | `135, 203, 221` | ![Non-Photo Blue Color](https://raw.githubusercontent.com/felipemendes/slack-theme/master/assets/non-photo-blue.png) |
-|Saffron         | `#F6B555` | `246, 181, 85`  | ![Saffron Color](https://raw.githubusercontent.com/felipemendes/slack-theme/master/assets/saffron.png) |
+This extension is available for free in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=felipe-mendes.slack-theme)
 
 ## Improvements
 
 Have you identified any bugs or improvements? Contact me or feel free to change the project at [GitHub](https://github.com/felipemendes/slack-theme)
+
+## Customization
+
+If you are using VSCode 1.12+ versions you can customize the colors to your liking, overriding the ones provided by this theme. More info [here](https://code.visualstudio.com/docs/getstarted/theme-color-reference)
 
 ## Credits
 
