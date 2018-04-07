@@ -2,7 +2,7 @@
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/) [![Badge for version for Visual Studio Code extension naereen.makefiles-support-for-vscode](https://vsmarketplacebadge.apphb.com/version/naereen.makefiles-support-for-vscode.svg)](https://marketplace.visualstudio.com/items?itemName=felipe-mendes.slack-theme)
 [![downloads](https://img.shields.io/badge/Downloads-2K-green.svg)](https://marketplace.visualstudio.com/items?itemName=felipe-mendes.slack-theme)
 
-# Slack Theme
+# Slack Theme for [Visual Studio Code](http://code.visualstudio.com)
 
 Color scheme inspired by the [Slack](https://slack.com) default theme Aubergine.
 
