@@ -27,6 +27,18 @@ If you are using VSCode 1.12+ versions you can customize the colors to your liki
 
 [Slack](https://github.com/slackhq)
 
+## Team
+
+This theme is maintained by the following person(s) and you "send issue"
+
+
+[![felipemendes](https://avatars2.githubusercontent.com/u/3712089?s=100&v=4)](https://github.com/felipemendes) |
+--- |
+[felipemendes](https://github.com/felipemendes) |
+
+
 ## License
 
 [MIT License](./License) - Slack Theme
+
+
