@@ -285,7 +285,7 @@
          "scope":"entity.name.function",
          "settings":{  
             "fontStyle":"",
-            "foreground":"#b1108e"
+            "foreground":"#7eb233"
          }
       },
       {  
@@ -332,7 +332,7 @@
          "scope":"support.function",
          "settings":{  
             "fontStyle":"",
-            "foreground":"#08134A"
+            "foreground":"#1ab394"
          }
       },
       {  
