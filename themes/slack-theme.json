@@ -4,7 +4,7 @@
    "colors":{  
       "foreground":"#36373B",
       "focusBorder":"#4C9689",
-      "widget.shadow":"#261C25",
+      "widget.shadow":"#3E313C",
       "input.background":"#FFF",
       "input.border":"#3E313C",
       "input.foreground":"#000",
@@ -25,7 +25,7 @@
       "button.hoverBackground":"#e4505f",
       "scrollbar.shadow":"#ffffff00",
       "scrollbarSlider.activeBackground":"#3e313c7e",
-      "scrollbarSlider.background":"#dbdbdb",
+      "scrollbarSlider.background":"#3E313C",
       "scrollbarSlider.hoverBackground":"#3e313c7e",
       "badge.background":"#F44C5E",
       "progressBar.background":"#F44C5E",
