@@ -87,7 +87,10 @@
       "welcomePage.buttonBackground":"#F9FAFA",
       "welcomePage.buttonHoverBackground":"#FCFCFC",
       "editorWidget.background":"#F9F9F9",
-      "editorWidget.border":"#dbdbdb"
+      "editorWidget.border":"#dbdbdb",
+      "editorSuggestWidget.foreground":"#4F384A",
+      "editorSuggestWidget.highlightForeground":"#4F384A",
+      "editorSuggestWidget.selectedBackground":"#b9b9b9"
    },
    "tokenColors":[  
       {  
