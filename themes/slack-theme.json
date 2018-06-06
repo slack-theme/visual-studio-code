@@ -1,10 +1,10 @@
 {  
     "name":"Slack Theme",
     "type":"light",
-    "colors":{  
+    "colors":{
        "foreground":"#36373B",
        "focusBorder":"#4C9689",
-       "widget.shadow":"#3E313C",
+       "widget.shadow":"#ffffff00",
        "input.background":"#FFF",
        "input.border":"#3E313C",
        "input.foreground":"#000",
@@ -79,6 +79,8 @@
        "notifications.foreground":"#FFF",
        "notifications.background":"#4F384A",
        "notifications.border":"#4F384A",
+       "notificationCenterHeader.foreground":"#FFF",
+       "notificationLink.foreground":"#FFF",
        "titleBar.activeBackground":"#4F384A",
        "titleBar.activeForeground":"#FFF",
        "titleBar.inactiveBackground":"#261C25",

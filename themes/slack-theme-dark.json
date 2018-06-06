@@ -80,6 +80,8 @@
 	   "notifications.foreground":"#FFF",
 	   "notifications.background":"#4F384A",
 	   "notifications.border":"#4F384A",
+	   "notificationCenterHeader.foreground":"#FFF",
+       "notificationLink.foreground":"#FFF",
 	   "titleBar.activeBackground":"#4F384A",
 	   "titleBar.activeForeground":"#FFF",
 	   "titleBar.inactiveBackground":"#261C25",
@@ -88,7 +90,7 @@
 	   "welcomePage.buttonBackground":"#4F384A",
 	   "welcomePage.buttonHoverBackground":"#3E313C",
 	   "editorWidget.background":"#4F384A",
-	   "editorWidget.border":"#261C25"
+	   "editorWidget.border":"#4F384A"
 	},
 	"tokenColors": [
 		 {
