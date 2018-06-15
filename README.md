@@ -1,15 +1,16 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/) [![Badge for version for Visual Studio Code extension naereen.makefiles-support-for-vscode](https://vsmarketplacebadge.apphb.com/version/naereen.makefiles-support-for-vscode.svg)](https://marketplace.visualstudio.com/items?itemName=felipe-mendes.slack-theme)
-[![downloads](https://img.shields.io/badge/Downloads-6K-green.svg)](https://marketplace.visualstudio.com/items?itemName=felipe-mendes.slack-theme)
-
 # Slack Theme for [Visual Studio Code](http://code.visualstudio.com)
 
-Color scheme inspired by the [Slack](https://slack.com) default theme Aubergine.
+![Version](https://vsmarketplacebadge.apphb.com/version/felipe-mendes.slack-theme.svg)
+![Installs](https://vsmarketplacebadge.apphb.com/installs-short/felipe-mendes.slack-theme.svg)
+![Ratting](https://vsmarketplacebadge.apphb.com/rating-short/felipe-mendes.slack-theme.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Light version
+>Color scheme inspired by the [Slack](https://slack.com) default theme Aubergine.
+
+### Light version
 ![](https://raw.githubusercontent.com/slack-theme/visual-studio-code/master/screenshots/preview-light.png)
 
-Dark version
+### Dark version
 ![](https://raw.githubusercontent.com/slack-theme/visual-studio-code/master/screenshots/preview-dark.png)
 ## Installing
 
