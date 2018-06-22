@@ -4,7 +4,7 @@
     "colors":{
        "foreground":"#36373B",
        "focusBorder":"#4C9689",
-       "widget.shadow":"#ffffff00",
+       "widget.shadow":"#3e313c94",
        "input.background":"#FFF",
        "input.border":"#3E313C",
        "input.foreground":"#000",
