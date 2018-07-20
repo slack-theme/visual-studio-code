@@ -88,9 +88,12 @@
 	   "titleBar.inactiveForeground":"#685C66",
 	   "titleBar.border":"#4F384A",
 	   "welcomePage.buttonBackground":"#4F384A",
-	   "welcomePage.buttonHoverBackground":"#3E313C",
+	   "welcomePage.buttonHoverBackground":"#685C66",
 	   "editorWidget.background":"#4F384A",
-	   "editorWidget.border":"#4F384A"
+	   "editorWidget.border":"#4F384A",
+	   "editorGroup.emptyBackground": "#4F384A",
+	   "editorGroup.focusedEmptyBorder": "#4F384A",
+	   "editorPane.background":"#4F384A"
 	},
 	"tokenColors": [
 		 {
