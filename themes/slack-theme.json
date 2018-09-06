@@ -95,7 +95,9 @@
         "editorSuggestWidget.selectedBackground":"#b9b9b9",
         "editorGroup.emptyBackground": "#4F384A",
         "editorGroup.focusedEmptyBorder": "#4F384A",
-        "editorPane.background":"#4F384A"
+        "editorPane.background":"#4F384A",
+        "breadcrumb.foreground": "#261C25",
+        "breadcrumb.focusForeground": "#F44C5E"
     },
     "tokenColors":[  
        {  
