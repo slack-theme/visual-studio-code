@@ -2,7 +2,7 @@
     "name": "slack-theme",
     "displayName": "Slack Theme",
     "description": "Color scheme inspired by Slack's default theme",
-    "version": "1.6.2",
+    "version": "1.7.3",
     "publisher": "felipe-mendes",
     "engines": {
         "vscode": "^1.17.0"
@@ -28,11 +28,11 @@
     "contributes": {
         "themes": [
             {
-                "label": "Slack Theme",
-                "uiTheme": "vs",
+                "label": "Slack Theme Light Editor",
+                "uiTheme": "vs-dark",
                 "path": "./themes/slack-theme.json"
             },{
-                "label": "Slack Theme Dark",
+                "label": "Slack Theme Dark Editor",
                 "uiTheme": "vs-dark",
                 "path": "./themes/slack-theme-dark.json"
             }

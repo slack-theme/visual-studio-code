@@ -1,9 +1,8 @@
 {  
 	"name":"Slack Theme",
 	"type":"dark",
-	"colors":{  
-	   "foreground":"#f6f6f4",
-	   "focusBorder":"#4C9689",
+	"colors":{
+	   "focusBorder":"#3E9689",
 	   "widget.shadow":"#3e313c94",
 	   "input.background":"#FFF",
 	   "input.border":"#3E313C",
@@ -25,7 +24,7 @@
 	   "button.hoverBackground":"#e4505f",
 	   "scrollbar.shadow":"#ffffff00",
 	   "scrollbarSlider.activeBackground":"#8A7A86",
-	   "scrollbarSlider.background":"#3E313C",
+	   "scrollbarSlider.background":"#8A7A86",
 	   "scrollbarSlider.hoverBackground":"#958793",
 	   "badge.background":"#F44C5E",
 	   "progressBar.background":"#F44C5E",
@@ -48,9 +47,10 @@
 	   "activityBarBadge.background":"#F44C5E",
 	   "activityBarBadge.foreground":"#F6F6F6",
 	   "panel.border":"#4F384A",
-	   "dropdown.background":"#4F384A",
-	   "dropdown.border":"#3E9689",
-	   "dropdown.foreground":"#FFF",
+	   "dropdown.background":"#FFF",
+	   "dropdown.listBackground":"#FFF",
+	   "dropdown.border":"#3E313C",
+	   "dropdown.foreground":"#000",
 	   "sideBar.background":"#4F384A",
 	   "sideBar.foreground":"#c9b9c5",
 	   "sideBarTitle.foreground":"#FFF",
@@ -72,7 +72,7 @@
 	   "extensionButton.prominentHoverBackground":"#442C3F",
 	   "gitDecoration.modifiedResourceForeground": "#ffb86c",
 	   "gitDecoration.deletedResourceForeground": "#ff5555",
-	   "gitDecoration.untrackedResourceForeground": "#50fa7b",
+	   "gitDecoration.untrackedResourceForeground": "#00bf69",
 	   "gitDecoration.ignoredResourceForeground": "#6272a4",
 	   "gitDecoration.conflictingResourceForeground": "#ffb86c",
 	   "notificationCenter.border":"#4F384A",
@@ -95,7 +95,7 @@
 	   "editorGroup.focusedEmptyBorder": "#4F384A",
 	   "editorPane.background":"#4F384A",
         "breadcrumb.foreground": "#FFF",
-        "breadcrumb.focusForeground": "#F44C5E"
+		"breadcrumb.focusForeground": "#F44C5E"
 	},
 	"tokenColors": [
 		 {
