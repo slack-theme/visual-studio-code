@@ -49,8 +49,8 @@
         "panel.border":"#4F384A",
         "dropdown.background":"#FFF",
         "dropdown.listBackground":"#FFF",
-        "dropdown.border":"#3E313C",
-        "dropdown.foreground":"#3E313C",
+        "dropdown.border":"#c9b9c5",
+        "dropdown.foreground":"#c9b9c5",
         "sideBar.background":"#4F384A",
         "sideBar.foreground":"#c9b9c5",
         "sideBarTitle.foreground":"#FFF",
@@ -99,7 +99,10 @@
         "editorPane.background":"#4F384A",
         "breadcrumb.foreground": "#261C25",
         "breadcrumb.focusForeground": "#F44C5E",
-        "settings.headerForeground": "#261C25"
+        "settings.headerForeground": "#261C25",
+        "settings.dropdownForeground": "#261C25",
+        "settings.dropdownBorder": "#261C25",
+        "menu.separatorBackground": "#F44C5E"
     },
     "tokenColors":[  
        {  
