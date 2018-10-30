@@ -38,6 +38,7 @@
         "editor.findMatchBackground":"#AED4FB",
         "editorHint.foreground": "#F9F9F9",
         "editorHint.border": "#F9F9F9",
+        "editor.wordHighlightBackground": "#AED4FB",
         "terminal.border":"#4F384A",
         "terminal.foreground":"#261C25",
         "panelTitle.activeForeground":"#261C25",
@@ -102,7 +103,9 @@
         "settings.headerForeground": "#261C25",
         "settings.dropdownForeground": "#261C25",
         "settings.dropdownBorder": "#261C25",
-        "menu.separatorBackground": "#F44C5E"
+        "menu.separatorBackground": "#F9FAFA",
+        "menu.background": "#3E313C",
+        "menu.foreground": "#F9FAFA"
     },
     "tokenColors":[  
        {  
