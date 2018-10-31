@@ -1,11 +1,11 @@
-# Slack Theme for [Visual Studio Code](http://code.visualstudio.com)
+# Slack Theme for [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=felipe-mendes.slack-theme)
 
 ![Version](https://vsmarketplacebadge.apphb.com/version/felipe-mendes.slack-theme.svg)
 ![Installs](https://vsmarketplacebadge.apphb.com/installs-short/felipe-mendes.slack-theme.svg)
 ![Ratting](https://vsmarketplacebadge.apphb.com/rating-short/felipe-mendes.slack-theme.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
->Color scheme inspired by the [Slack](https://slack.com) default theme Aubergine.
+>Color scheme inspired by the [Slack](https://slack.com) default themes.
 
 ### Light version
 ![](https://raw.githubusercontent.com/slack-theme/visual-studio-code/master/screenshots/preview-light.png)
