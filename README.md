@@ -7,7 +7,7 @@
 
 >Color scheme inspired by the [Slack](https://slack.com) default themes.
 
-![](https://raw.githubusercontent.com/slack-theme/visual-studio-code/master/screenshots/preview-light.png)
+![](https://raw.githubusercontent.com/slack-theme/visual-studio-code/master/screenshots/slack-theme.gif)
 
 ## Install
 
