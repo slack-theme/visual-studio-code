@@ -2,7 +2,7 @@
     "name": "slack-theme",
     "displayName": "Slack Theme",
     "description": "Color scheme inspired by Slack's default theme",
-    "version": "1.8.1",
+    "version": "1.8.2",
     "publisher": "felipe-mendes",
     "engines": {
         "vscode": "^1.17.0"
@@ -43,6 +43,10 @@
                 "label": "Slack Theme Ochin",
                 "uiTheme": "vs-dark",
                 "path": "./themes/ochin.json"
+            },{
+                "label": "Slack Theme Work Hard",
+                "uiTheme": "vs-dark",
+                "path": "./themes/work-hard.json"
             }
         ]
     }
