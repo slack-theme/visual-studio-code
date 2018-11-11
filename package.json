@@ -2,7 +2,7 @@
     "name": "slack-theme",
     "displayName": "Slack Theme",
     "description": "Color scheme inspired by Slack's default theme",
-    "version": "1.8.5",
+    "version": "1.8.6",
     "publisher": "felipe-mendes",
     "engines": {
         "vscode": "^1.17.0"
@@ -31,19 +31,23 @@
                 "label": "Slack Theme Aubergine",
                 "uiTheme": "vs-dark",
                 "path": "./themes/aubergine.json"
-            },{
+            },
+            {
                 "label": "Slack Theme Aubergine Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/aubergine-dark.json"
-            },{
+            },
+            {
                 "label": "Slack Theme Monument",
                 "uiTheme": "vs-dark",
                 "path": "./themes/monument.json"
-            },{
+            },
+            {
                 "label": "Slack Theme Ochin",
                 "uiTheme": "vs-dark",
                 "path": "./themes/ochin.json"
-            },{
+            },
+            {
                 "label": "Slack Theme Work Hard",
                 "uiTheme": "vs-dark",
                 "path": "./themes/work-hard.json"
