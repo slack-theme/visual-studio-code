@@ -22,7 +22,7 @@
         "list.inactiveFocusBackground":"#003F42",
         "button.background":"#DC7C73",
         "button.foreground":"#FFF",
-        "button.hoverBackground":"#e4505f",
+        "button.hoverBackground":"#FF9F6C",
         "scrollbar.shadow":"#ffffff00",
         "scrollbarSlider.activeBackground":"#003F427e",
         "scrollbarSlider.background":"#003F427e",
