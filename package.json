@@ -51,6 +51,11 @@
                 "label": "Slack Theme Work Hard",
                 "uiTheme": "vs-dark",
                 "path": "./themes/work-hard.json"
+            },
+            {
+                "label": "Slack Theme Choco Mint",
+                "uiTheme": "vs-dark",
+                "path": "./themes/choco-mint.json"
             }
         ]
     }
