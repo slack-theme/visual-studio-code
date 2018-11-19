@@ -1,6 +1,6 @@
 {  
     "name":"Slack Theme Hoth",
-    "type":"dark",
+    "type":"light",
     "colors":{
         "foreground":"#36373B",
         "focusBorder":"#DCDCE4",
@@ -20,9 +20,9 @@
         "list.inactiveSelectionForeground":"#F8F8FA",
         "list.highlightForeground":"#373F45",
         "list.inactiveFocusBackground":"#DCDCE4",
-        "button.background":"#DCDCE4",
+        "button.background":"#009FDC",
         "button.foreground":"#FFF",
-        "button.hoverBackground":"#009FDC",
+        "button.hoverBackground":"#4BD064",
         "scrollbar.shadow":"#ffffff00",
         "scrollbarSlider.activeBackground":"#DCDCE47e",
         "scrollbarSlider.background":"#DCDCE47e",
@@ -34,7 +34,7 @@
         "editor.lineHighlightBackground":"#EEEEEE",
         "editor.selectionBackground":"#AED4FB",
         "editorLineNumber.foreground":"#b9b9b9",
-        "editorActiveLineNumber.foreground":"#DCDCE4",
+        "editorActiveLineNumber.foreground":"#009FDC",
         "editor.findMatchBackground":"#AED4FB",
         "editorHint.foreground": "#F9F9F9",
         "editorHint.border": "#F9F9F9",
@@ -47,7 +47,7 @@
         "activityBar.dropBackground":"#FFF",
         "activityBarBadge.background":"#4BD064",
         "activityBarBadge.foreground":"#FFF",
-        "panel.border":"#F8F8FA",
+        "panel.border":"#F3F3F3",
         "dropdown.background":"#FFF",
         "dropdown.listBackground":"#FFF",
         "dropdown.border":"#FFF",
@@ -61,7 +61,7 @@
         "tab.border":"#F3F3F3",
         "tab.activeBackground":"#FFF",
         "tab.inactiveForeground":"#686868",
-        "tab.inactiveBackground":"#F3F3F3",
+        "tab.inactiveBackground":"#DCDCE4",
         "tab.activeForeground":"#000",
         "editorGroupHeader.tabsBackground": "#F9F9F9",
         "statusBar.foreground":"#FFF",
@@ -83,8 +83,8 @@
         "notifications.border":"#DCDCE4",
         "notificationCenterHeader.foreground":"#FFF",
         "notificationLink.foreground":"#FFF",
-        "titleBar.activeBackground":"#F8F8FA",
-        "titleBar.activeForeground":"#FFF",
+        "titleBar.activeBackground":"#B5B5C8",
+        "titleBar.activeForeground":"#373F45",
         "titleBar.inactiveBackground":"#DCDCE4",
         "titleBar.inactiveForeground":"#685C66",
         "titleBar.border":"#F8F8FA",
@@ -105,7 +105,7 @@
         "settings.dropdownBorder": "#373F45",
         "menu.separatorBackground": "#F9FAFA",
         "menu.background": "#DCDCE4",
-        "menu.foreground": "#F9FAFA"
+        "menu.foreground": "#373F45"
     },
     "tokenColors":[  
        {  
