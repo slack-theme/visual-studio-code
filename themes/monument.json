@@ -31,7 +31,7 @@
         "progressBar.background":"#DC7C73",
         "editor.background":"#FFF",
         "editor.foreground":"#000",
-        "editor.lineHighlightBackground":"#F9F9F9",
+        "editor.lineHighlightBackground":"#EEEEEE",
         "editor.selectionBackground":"#AED4FB",
         "editorLineNumber.foreground":"#b9b9b9",
         "editorActiveLineNumber.foreground":"#DC7C73",

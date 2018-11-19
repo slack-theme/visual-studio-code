@@ -1,7 +1,3 @@
-<img width="400" alt="Slack is Awesome by Nick Staab" src="https://raw.githubusercontent.com/slack-theme/slack-theme/master/assets/slack-is-awesome.gif">
-
-> Slack is Awesome by [Nick Staab](https://dribbble.com/shots/1724648-Slack-is-Awesome).
-
 # Slack Theme for [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=felipe-mendes.slack-theme)
 
 ![Version](https://vsmarketplacebadge.apphb.com/version/felipe-mendes.slack-theme.svg)
