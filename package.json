@@ -56,6 +56,11 @@
                 "label": "Slack Theme Choco Mint",
                 "uiTheme": "vs-dark",
                 "path": "./themes/choco-mint.json"
+            },
+            {
+                "label": "Slack Theme Hoth",
+                "uiTheme": "vs-light",
+                "path": "./themes/hoth.json"
             }
         ]
     }
