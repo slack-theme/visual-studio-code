@@ -5,9 +5,13 @@
 ![Ratting](https://vsmarketplacebadge.apphb.com/rating-short/felipe-mendes.slack-theme.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
->Color scheme inspired by the [Slack](https://slack.com) default themes.
+Color scheme inspired by the [Slack](https://slack.com) default themes.
 
 ![](https://raw.githubusercontent.com/slack-theme/visual-studio-code/master/assets/screenshot.png)
+
+And also a imagined dark version of Aubergine :sunglasses:
+
+![](https://raw.githubusercontent.com/slack-theme/visual-studio-code/master/assets/screenshot-dark.png)
 
 ## Install
 
@@ -21,17 +25,20 @@ This extension is available in the [Visual Studio Code Marketplace](https://mark
 
 Have you identified any bugs or improvements? Contact me or feel free to change the project at [GitHub](https://github.com/felipemendes/slack-theme).
 
+## Contribute
+Head over to the [GitHub](https://github.com/felipemendes/slack-theme) to contribute.
+
 ## Customization
 
 If you are using VSCode 1.12+ versions you can customize the colors to your liking, overriding the ones provided by this theme. More info [here](https://code.visualstudio.com/docs/getstarted/theme-color-reference).
 
 ## Credits
 
-[Slack](https://github.com/slackhq)
+[Slack](https://github.com/slackhq) :heart:
 
 ## Team
 
-This theme is maintained by the following person(s) and you "send issue"
+This theme is maintained by the following person(s).
 
 
 [![felipemendes](https://avatars2.githubusercontent.com/u/3712089?s=100&v=4)](https://github.com/felipemendes) |
