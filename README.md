@@ -9,7 +9,7 @@ Color scheme inspired by the [Slack](https://slack.com) default themes.
 
 ![](https://raw.githubusercontent.com/slack-theme/visual-studio-code/master/assets/screenshot.png)
 
-And also a imagined dark version of Aubergine :sunglasses:
+And also a imagined dark version of Aubergine.
 
 ![](https://raw.githubusercontent.com/slack-theme/visual-studio-code/master/assets/screenshot-dark.png)
 
@@ -26,7 +26,7 @@ This extension is available in the [Visual Studio Code Marketplace](https://mark
 Have you identified any bugs or improvements? Contact me or feel free to change the project at [GitHub](https://github.com/felipemendes/slack-theme).
 
 ## Contribute
-Head over to the [GitHub](https://github.com/felipemendes/slack-theme) to contribute.
+Head over to [GitHub](https://github.com/felipemendes/slack-theme) to contribute.
 
 ## Customization
 
@@ -34,7 +34,7 @@ If you are using VSCode 1.12+ versions you can customize the colors to your liki
 
 ## Credits
 
-[Slack](https://github.com/slackhq) :heart:
+[Slack](https://github.com/slackhq).
 
 ## Team
 

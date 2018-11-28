@@ -2,7 +2,7 @@
     "name": "slack-theme",
     "displayName": "Slack Theme",
     "description": "Color scheme inspired by Slack's default themes",
-    "version": "1.8.11",
+    "version": "1.8.12",
     "publisher": "felipe-mendes",
     "engines": {
         "vscode": "^1.17.0"
@@ -64,8 +64,13 @@
             },
             {
                 "label": "Slack Theme Protanopia & Deuteranopia",
-                "uiTheme": "vs",
+                "uiTheme": "vs-dark",
                 "path": "./themes/protanopia-deuteranopia.json"
+            },
+            {
+                "label": "Slack Theme Tritanopia",
+                "uiTheme": "vs-dark",
+                "path": "./themes/tritanopia.json"
             }
         ]
     }
