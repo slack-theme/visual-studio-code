@@ -2,7 +2,7 @@
     "name": "slack-theme",
     "displayName": "Slack Theme",
     "description": "Color scheme inspired by Slack's default themes",
-    "version": "1.8.12",
+    "version": "1.8.14",
     "publisher": "felipe-mendes",
     "engines": {
         "vscode": "^1.17.0"
@@ -71,6 +71,11 @@
                 "label": "Slack Theme Tritanopia",
                 "uiTheme": "vs-dark",
                 "path": "./themes/tritanopia.json"
+            },
+            {
+                "label": "Slack Theme Dark Mode",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark-mode.json"
             }
         ]
     }
