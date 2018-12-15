@@ -38,9 +38,9 @@
         "progressBar.background":"#F44C5E",
         "editor.background":"#FFF",
         "editor.foreground":"#000",
-        "editor.lineHighlightBackground":"#EEEEEE",
+        "editor.lineHighlightBackground":"#F3F3F3",
         "editor.selectionBackground":"#AED4FB",
-        "editor.wordHighlightStrongBackground":"#EEEEEE",
+        "editor.wordHighlightStrongBackground":"#AED4FB",
         "editorLineNumber.foreground":"#b9b9b9",
         "editorActiveLineNumber.foreground":"#F44C5E",
         "editor.findMatchBackground":"#AED4FB",
@@ -138,7 +138,10 @@
         "peekViewResult.background": "#F9F9F9",
         "peekView.border": "#4F384A",
         "peekViewResult.lineForeground":"#261C25",
-        "peekViewEditor.matchHighlightBorder":"#F44C5E"
+        "peekViewEditor.matchHighlightBorder":"#F44C5E",
+        "textPreformat.foreground":"#261C25",
+        "editorIndentGuide.background":"#F3F3F3",
+        "editorIndentGuide.activeBackground":"#dbdbdb"
     },
     "tokenColors":[  
        {  

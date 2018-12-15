@@ -138,7 +138,10 @@
         "peekViewResult.background": "#F9F9F9",
         "peekView.border": "#51304B",
         "peekViewResult.lineForeground":"#291825",
-        "peekViewEditor.matchHighlightBorder":"#00FAB7"
+        "peekViewEditor.matchHighlightBorder":"#291825",
+        "textPreformat.foreground":"#261C25",
+        "editorIndentGuide.background":"#F3F3F3",
+        "editorIndentGuide.activeBackground":"#dbdbdb"
     },
     "tokenColors":[  
        {  

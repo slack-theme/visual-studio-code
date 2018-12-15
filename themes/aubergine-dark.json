@@ -122,7 +122,11 @@
 	   "breadcrumb.focusForeground": "#F44C5E",
 	   "menu.separatorBackground": "#F9FAFA",
 	   "menu.background": "#3E313C",
-	   "menu.foreground": "#F9FAFA"
+	   "menu.foreground": "#F9FAFA",
+	   "peekViewEditor.matchHighlightBorder":"#F44C5E",
+	   "textPreformat.foreground":"#261C25",
+	   "editorIndentGuide.background":"#F3F3F3",
+	   "editorIndentGuide.activeBackground":"#dbdbdb"
 	},
 	"tokenColors": [
 		 {

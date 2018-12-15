@@ -129,7 +129,11 @@
         "settings.dropdownBorder": "#161F26",
         "menu.separatorBackground": "#F9FAFA",
         "menu.background": "#161F26",
-        "menu.foreground": "#F9FAFA"
+        "menu.foreground": "#F9FAFA",
+        "peekViewEditor.matchHighlightBorder":"#161F26",
+        "textPreformat.foreground":"#161F26",
+        "editorIndentGuide.background":"#F3F3F3",
+        "editorIndentGuide.activeBackground":"#dbdbdb"
     },
     "tokenColors":[  
        {  
