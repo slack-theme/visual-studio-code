@@ -7,10 +7,13 @@
 
 Color scheme inspired by the [Slack](https://slack.com) default themes.
 
+Added [new Aubergine color](https://slackhq.com/say-hello-new-logo)
+![](https://raw.githubusercontent.com/slack-theme/visual-studio-code/master/assets/new-aubergine.png)
+
+Other colors
 ![](https://raw.githubusercontent.com/slack-theme/visual-studio-code/master/assets/screenshot.png)
 
-And also a imagined dark version of Aubergine.
-
+And also a imagined dark version of Aubergine Classic.
 ![](https://raw.githubusercontent.com/slack-theme/visual-studio-code/master/assets/screenshot-dark.png)
 
 ## Install
