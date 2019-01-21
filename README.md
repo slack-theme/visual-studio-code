@@ -7,10 +7,10 @@
 
 Color scheme inspired by the [Slack](https://slack.com) default themes.
 
-Added [new Aubergine color](https://slackhq.com/say-hello-new-logo)
+[New Slack color theme](https://slackhq.com/say-hello-new-logo)
 ![](https://raw.githubusercontent.com/slack-theme/visual-studio-code/master/assets/new-aubergine.png)
 
-Other colors
+Classic color themes
 ![](https://raw.githubusercontent.com/slack-theme/visual-studio-code/master/assets/screenshot.png)
 
 And also a imagined dark version of Aubergine Classic.
@@ -26,7 +26,7 @@ This extension is available in the [Visual Studio Code Marketplace](https://mark
 
 ## Improvements
 
-Have you identified any bugs or improvements? Contact me or feel free to change the project at [GitHub](https://github.com/felipemendes/slack-theme).
+Have you identified any bugs or improvements? Contact me or feel free to change the project at [GitHub](https://github.com/felipemendes/slack-theme)
 
 ## Contribute
 Head over to [GitHub](https://github.com/felipemendes/slack-theme) to contribute.
@@ -37,11 +37,11 @@ If you are using VSCode 1.12+ versions you can customize the colors to your liki
 
 ## Credits
 
-[Slack](https://github.com/slackhq).
+[Slack](https://github.com/slackhq)
 
 ## Team
 
-This theme is maintained by the following person(s).
+This theme is maintained by the following person(s)
 
 
 [![felipemendes](https://avatars2.githubusercontent.com/u/3712089?s=100&v=4)](https://github.com/felipemendes) |
