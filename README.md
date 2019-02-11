@@ -1,8 +1,9 @@
 # Slack Theme for [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=felipe-mendes.slack-theme)
 
-![Version](https://vsmarketplacebadge.apphb.com/version/felipe-mendes.slack-theme.svg)
-![Installs](https://vsmarketplacebadge.apphb.com/installs-short/felipe-mendes.slack-theme.svg)
-![Ratting](https://vsmarketplacebadge.apphb.com/rating-short/felipe-mendes.slack-theme.svg)
+![Version](https://vsmarketplacebadge.apphb.com/version-short/felipe-mendes.slack-theme.svg)
+![Downloads](https://vsmarketplacebadge.apphb.com/downloads-short/felipe-mendes.slack-theme.svg)
+![Ratting](https://vsmarketplacebadge.apphb.com/rating/felipe-mendes.slack-theme.svg)
+![TrendingMonthly](https://vsmarketplacebadge.apphb.com/trending-monthly/felipe-mendes.slack-theme.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Color scheme inspired by the [Slack](https://slack.com) default themes.
@@ -26,7 +27,7 @@ This extension is available in the [Visual Studio Code Marketplace](https://mark
 
 ## Improvements
 
-Have you identified any bugs or improvements? Contact me or feel free to change the project at [GitHub](https://github.com/felipemendes/slack-theme)
+Have you identified any bugs or improvements? Contact me or feel free to change the project at [GitHub](https://github.com/felipemendes/slack-theme).
 
 ## Contribute
 Head over to [GitHub](https://github.com/felipemendes/slack-theme) to contribute.
