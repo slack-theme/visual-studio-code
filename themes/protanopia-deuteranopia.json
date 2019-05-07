@@ -1,6 +1,6 @@
 {  
     "name":"Slack Theme Protanopia & Deuteranopia",
-    "type":"dark",
+    "type":"light",
     "colors":{
         "foreground":"#36373B",
         "focusBorder":"#1D0B19",

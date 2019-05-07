@@ -34,7 +34,7 @@
             },
             {
                 "label": "Slack Theme Aubergine",
-                "uiTheme": "vs-dark",
+                "uiTheme": "vs",
                 "path": "./themes/aubergine.json"
             },
             {
@@ -44,22 +44,22 @@
             },
             {
                 "label": "Slack Theme Monument",
-                "uiTheme": "vs-dark",
+                "uiTheme": "vs",
                 "path": "./themes/monument.json"
             },
             {
                 "label": "Slack Theme Ochin",
-                "uiTheme": "vs-dark",
+                "uiTheme": "vs",
                 "path": "./themes/ochin.json"
             },
             {
                 "label": "Slack Theme Work Hard",
-                "uiTheme": "vs-dark",
+                "uiTheme": "vs",
                 "path": "./themes/work-hard.json"
             },
             {
                 "label": "Slack Theme Choco Mint",
-                "uiTheme": "vs-dark",
+                "uiTheme": "vs",
                 "path": "./themes/choco-mint.json"
             },
             {
@@ -69,12 +69,12 @@
             },
             {
                 "label": "Slack Theme Protanopia & Deuteranopia",
-                "uiTheme": "vs-dark",
+                "uiTheme": "vs",
                 "path": "./themes/protanopia-deuteranopia.json"
             },
             {
                 "label": "Slack Theme Tritanopia",
-                "uiTheme": "vs-dark",
+                "uiTheme": "vs",
                 "path": "./themes/tritanopia.json"
             },
             {

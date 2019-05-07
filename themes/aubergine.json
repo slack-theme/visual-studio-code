@@ -1,6 +1,6 @@
 {  
     "name":"Slack Theme Aubergine",
-    "type":"dark",
+    "type":"light",
     "colors":{
         "foreground":"#36373B",
         "focusBorder":"#3E313C",
