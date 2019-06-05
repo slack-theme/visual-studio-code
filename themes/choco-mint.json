@@ -74,7 +74,7 @@
         "panel.border":"#564539",
         "dropdown.background":"#FFF",
         "dropdown.listBackground":"#FFF",
-        "dropdown.border":"#FFF",
+        "dropdown.border":"#DCDEDF",
         "dropdown.foreground":"#DCDEDF",
         "sideBar.background":"#564539",
         "sideBar.foreground":"#DCDEDF",
