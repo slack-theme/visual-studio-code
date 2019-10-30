@@ -133,7 +133,9 @@
         "peekViewEditor.matchHighlightBorder":"#2B231D",
         "textPreformat.foreground":"#261C25",
         "editorIndentGuide.background":"#F3F3F3",
-        "editorIndentGuide.activeBackground":"#dbdbdb"
+        "editorIndentGuide.activeBackground":"#dbdbdb",
+        "debugExceptionWidget.background":"#F6B555",
+        "debugExceptionWidget.border":"#2B231D"
     },
     "tokenColors":[  
        {  
