@@ -135,7 +135,13 @@
         "editorIndentGuide.background":"#F3F3F3",
         "editorIndentGuide.activeBackground":"#dbdbdb",
         "debugExceptionWidget.background":"#FF9F6C",
-        "debugExceptionWidget.border":"#003F42"
+        "debugExceptionWidget.border":"#003F42",
+        "editorMarkerNavigation.background":"#F9F9F9",
+        "editorMarkerNavigationInfo.background":"#6182b8",
+        "editorMarkerNavigationError.background":"#F44C5E",
+        "editorMarkerNavigationWarning.background":"#F6B555",
+        "peekViewTitleDescription.foreground":"#685C66",
+        "peekViewTitleLabel.foreground":"#2D3E4C"
     },
     "tokenColors":[  
        {  
