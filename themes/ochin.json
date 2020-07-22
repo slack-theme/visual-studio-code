@@ -164,7 +164,6 @@
         "menu.separatorBackground": "#F9FAFA",
         "menu.background": "#161F26",
         "menu.foreground": "#F9FAFA",
-        "peekViewEditor.matchHighlightBorder":"#161F26",
         "textPreformat.foreground":"#161F26",
         "editorIndentGuide.background":"#F3F3F3",
         "editorIndentGuide.activeBackground":"#dbdbdb",
@@ -175,7 +174,14 @@
         "editorMarkerNavigationError.background":"#F44C5E",
         "editorMarkerNavigationWarning.background":"#F6B555",
         "peekViewTitleDescription.foreground":"#685C66",
-        "peekViewTitleLabel.foreground":"#2D3E4C"
+        "peekViewTitleLabel.foreground":"#FFF",
+        "peekViewTitle.background": "#2D3E4C",
+        "peekViewEditor.background": "#FFF",
+        "peekViewEditor.matchHighlightBorder":"#161F26",
+        "peekViewEditorGutter.background": "#161F26",
+        "peekViewResult.background": "#2D3E4C",
+        "peekViewResult.fileForeground": "#FFF",
+        "peekViewResult.lineForeground": "#DCDEDF"
     },
     "tokenColors":[
        {
