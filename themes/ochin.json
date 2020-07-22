@@ -98,6 +98,7 @@
         "terminal.ansiRed": "#e53935",
         "terminal.ansiWhite": "#ffffff",
         "terminal.ansiYellow": "#ffb62c",
+        "terminal.selectionBackground": "#0006",
         "panelTitle.activeForeground":"#161F26",
         "activityBar.background":"#161F26",
         "activityBar.foreground":"#FFF",
