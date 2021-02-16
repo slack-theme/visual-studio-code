@@ -2,7 +2,7 @@
     "name": "slack-theme",
     "displayName": "Slack Theme",
     "description": "Color scheme inspired by Slack's default themes",
-    "version": "1.9.12",
+    "version": "1.9.13",
     "publisher": "felipe-mendes",
     "engines": {
         "vscode": "^1.17.0"
@@ -49,7 +49,7 @@
             },
             {
                 "label": "Slack Theme Ochin",
-                "uiTheme": "vs-dark",
+                "uiTheme": "vs",
                 "path": "./themes/ochin.json"
             },
             {
