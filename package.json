@@ -2,7 +2,7 @@
     "name": "slack-theme",
     "displayName": "Slack Theme",
     "description": "Color scheme inspired by Slack's default themes",
-    "version": "1.9.13",
+    "version": "1.9.14",
     "publisher": "felipe-mendes",
     "engines": {
         "vscode": "^1.17.0"
@@ -83,5 +83,8 @@
                 "path": "./themes/dark-mode.json"
             }
         ]
+    },
+    "dependencies": {
+        "vsce": "^1.87.0"
     }
 }
