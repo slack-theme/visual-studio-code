@@ -21,6 +21,7 @@
         "color": "#420D3F",
         "theme": "dark"
     },
+    "license": "MIT",
     "repository": {
         "type": "git",
         "url": "https://github.com/felipemendes/slack-theme"
