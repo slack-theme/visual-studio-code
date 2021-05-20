@@ -1,5 +1,5 @@
 {
-	"name":"Slack Theme Dark Mode", 
+	"name": "Slack Theme Dark Mode",
 	"type": "dark",
 	"colors": {
 		"activityBarBadge.background": "#1D978D",
@@ -23,11 +23,11 @@
 		"statusBar.debuggingBackground": "#1D978D",
 		"list.hoverBackground": "#222222",
 		"gitDecoration.modifiedResourceForeground": "#ECB22E",
-        "gitDecoration.deletedResourceForeground": "#FFF",
-        "gitDecoration.untrackedResourceForeground": "#ECB22E",
-        "gitDecoration.ignoredResourceForeground": "#877583",
-        "gitDecoration.addedResourceForeground": "#ECB22E",
-        "gitDecoration.conflictingResourceForeground": "#FFF",
+		"gitDecoration.deletedResourceForeground": "#FFF",
+		"gitDecoration.untrackedResourceForeground": "#ECB22E",
+		"gitDecoration.ignoredResourceForeground": "#877583",
+		"gitDecoration.addedResourceForeground": "#ECB22E",
+		"gitDecoration.conflictingResourceForeground": "#FFF",
 		"editor.lineHighlightBorder": "#141414",
 		"editor.lineHighlightBackground": "#141414",
 		"editorSuggestWidget.selectedBackground": "#0077B5",
