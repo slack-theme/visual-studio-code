@@ -2,7 +2,7 @@
     "name": "slack-theme",
     "displayName": "Slack Theme",
     "description": "Color scheme inspired by Slack's default themes",
-    "version": "1.9.15",
+    "version": "1.9.16",
     "publisher": "felipe-mendes",
     "engines": {
         "vscode": "^1.17.0"
@@ -29,7 +29,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Slack Theme Aubergine - NEW COLOR",
+                "label": "Slack Theme Aubergine",
                 "uiTheme": "vs",
                 "path": "./themes/aubergine-new.json"
             },
