@@ -24,6 +24,7 @@ This extension is available in the [Visual Studio Code Marketplace](https://mark
 2. Then enter **Install Extension**
 3. Write **Slack Theme**
 4. Select it or press Enter to install
+5. Bonus: Install [FiraCode](https://github.com/tonsky/FiraCode) font.
 
 ## Improvements
 
