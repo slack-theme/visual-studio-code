@@ -1,6 +1,6 @@
 {  
     "name":"Slack Theme Tritanopia",
-    "type":"dark",
+    "type":"light",
     "colors":{
         "foreground":"#36373B",
         "focusBorder":"#1D0B19",
