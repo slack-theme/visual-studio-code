@@ -1,6 +1,6 @@
 {  
     "name":"Slack Theme Work Hard",
-    "type":"dark",
+    "type":"light",
     "colors":{
         "foreground":"#36373B",
         "focusBorder":"#272928",

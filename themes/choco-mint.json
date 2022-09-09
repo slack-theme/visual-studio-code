@@ -1,6 +1,6 @@
 {  
     "name":"Slack Theme Choco Mint",
-    "type":"dark",
+    "type":"light",
     "colors":{
         "foreground":"#36373B",
         "focusBorder":"#2B231D",
